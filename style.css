@@ -1,0 +1,18 @@
+header,
+main,
+footer {
+    text-align: center;
+}
+
+body {
+    background-color: #F1E9E4;
+}
+
+h3 {
+    border: solid 2px;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
